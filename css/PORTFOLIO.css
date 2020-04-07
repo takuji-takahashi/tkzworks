@@ -1,0 +1,235 @@
+.container-fluid{
+  
+  background-color:black;
+}
+
+.row1{
+display: flex;
+/* background-image: url(images/background.png); */
+width: 931px;
+height: 100%;
+margin-left:auto;
+margin-right:auto;
+}
+
+.ensof{
+  top: 10px;
+  left: 10px;
+  /* width: 440px;
+  height: 684px; */
+  /* background-color: forestgreen; */
+  /* box-shadow: 5px 5px 6px #00000029;
+  border-radius: 8px; */
+ 
+}
+
+.flyer{
+  top: 10px;
+  left: 0px;
+  /* right:10px;
+  width: 211px;
+  height: 425px;
+  background-color: forestgreen;
+  box-shadow: 5px 5px 6px #00000029;
+  border-radius: 8px; */
+  
+  margin-left:10px;
+  margin-right:5px;
+
+}
+
+.womb{
+  top: 10px;
+  left: 0px;
+  /* right:10px;
+  width: 211px;
+  height: 425px;;
+  background-color: forestgreen;
+  box-shadow: 5px 5px 6px #00000029;
+  border-radius: 8px; */
+  
+  margin-left:13px;
+
+}
+
+.celt{
+  position: absolute;
+  z-index: 100;
+  top: 435px;
+  left: 680px;
+  
+  /* width: 440px;
+  height: 250px;
+  background-color: forestgreen;
+  box-shadow: 5px 5px 6px #00000029;
+  border-radius: 8px; */
+
+}
+
+.row2{
+  display:flex;
+  /* background-image: url(images/background.png); */
+  width: 931px;
+  height: 100%;
+  
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.weeplay{
+  top: 10px;
+  left: 0px;
+  
+  /* width: 440px;
+  height: 250px;
+  background-color: forestgreen;
+  box-shadow: 5px 5px 6px #00000029;
+  border-radius: 8px; */
+  margin-left: 20px;
+
+}
+
+.nine{
+  top: 10px;
+  left: 10px;
+  width: 440px;
+  
+  /* height: 250px;
+  background-color: forestgreen;
+  box-shadow: 5px 5px 6px #00000029;
+  border-radius: 8px; */
+margin-left:10px;
+} 
+
+.row3{
+  /* background-image: url(images/background.png); */
+  width: 931px;
+  height: 100%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.kandemic{
+  top: 10px;
+  left: 0px;
+  
+  /* width: 890px;
+  height: 250px;
+    background-color: forestgreen;
+    box-shadow: 5px 5px 6px #00000029;
+    border-radius: 8px; */
+    margin-left:20px;
+}
+
+.row4{
+  display:flex;
+  /* background-image: url(images/background.png); */
+  width: 931px;
+  height: 100%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:10px;
+}
+
+
+
+    .one{
+      top: 10px;
+      left: 10px;
+      
+      /* width: 440px;
+      height: 250px;
+        background-color: forestgreen;
+        box-shadow: 5px 5px 6px #00000029;
+        border-radius: 8px; */
+        margin-left:20px;
+    }
+    
+    .two{
+      top: 10px;
+      left: 10px;
+      
+      /* width: 440px;
+      height: 250px;
+        background-color: gold;
+        box-shadow: 5px 5px 6px #00000029;
+        border-radius: 8px; */
+        margin-left:10px;
+        
+    }
+
+    .row5{
+      display:flex;
+      /* background-image: url(images/background.png); */
+      width: 931px;
+      height: 100%;
+      margin-left:auto;
+      margin-right:auto;
+    }
+    
+
+
+    .tree{
+      top: 10px;
+      left: 10px;
+      
+      /* width: 440px;
+      height: 250px;
+        background-color: forestgreen;
+        box-shadow: 5px 5px 6px #00000029;
+        border-radius: 8px; */
+        margin-left:20px;
+    }
+    
+    .for{
+      top: 10px;
+      left: 10px;
+      
+      /* width: 440px;
+      height: 250px;
+        background-color: gold;
+        box-shadow: 5px 5px 6px #00000029;
+        border-radius: 8px; */
+        margin-left:10px;
+    }
+
+    .row6{
+      display:flex;
+      /* background-image: url(images/background.png); */
+      width: 931px;
+      height: 100%;
+      margin-left:auto;
+      margin-right:auto;
+    }
+    
+
+
+    .five{
+      top: 10px;
+      left: 10px;
+      
+      /* width: 440px;
+      height: 250px;
+        background-color: forestgreen;
+        box-shadow: 5px 5px 6px #00000029;
+        border-radius: 8px; */
+        margin-left:20px;
+    }
+    
+    .six{
+      top: 10px;
+      left: 10px;
+      
+      /* width: 440px;
+      height: 250px;
+        background-color: gold;
+        box-shadow: 5px 5px 6px #00000029;
+        border-radius: 8px; */
+        margin-left:10px;
+    } 
+
+    .back{
+      font-size: 30px;
+      color:white;
+      padding-left: 630px;
+    }
