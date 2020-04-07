@@ -1,0 +1,49 @@
+youtube
+460 x 260
+30px
+16px
+
+LATEST VIDEOS
+25px
+
+
+
+width="1900" height="880"
+
+
+
+パソコンは幅1366～1920px、高さ763～1080pxが主流のようですね。
+一方スマートフォンは幅360～375px、高さ640～667pxが主流となっています。
+
+
+
+
+マウスオーバー
+function changeColor(){
+    document.getElementById('katagaki').style.backgroundColor = 'white';
+}
+
+function revertColor(){
+    document.getElementById('katagaki').style.backgroundColor = null;
+}
+
+id="gaki"  type="text" onMouseOver="changeColor()" onMouseOut="revertColor()"
+
+
+window.addEventListener('load',()=>{  // index.html読込時
+
+//     const elems = document.querySelectorAll('[hovercolor]');  // hovercolorという属性を持つ要素すべて
+
+//     elems.forEach((e)=>{  // 上記で指定した要素それぞれ(=e)について
+
+//         e.addEventListener('mouseover',()=>{  // ホバー時
+//             e.style.color = e.getAttribute('hovercolor');
+//             // eのテキスト色 ＝ eのhovercolorの属性値
+//         });
+
+//         e.addEventListener('mouseout',()=>{  // ホバー解除時
+//             e.style.color = "";  // 初期値に戻す（CSSで指定したもの）
+//         });
+
+//     });
+// });
