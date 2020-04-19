@@ -1,0 +1,4 @@
+キャンバスに表示させるため必要なもの
+
+let can = document.getElementById("can");
+let con = can.getContext("2d");
